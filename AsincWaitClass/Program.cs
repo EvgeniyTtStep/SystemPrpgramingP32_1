@@ -24,6 +24,5 @@ class MyClass
 
         Console.WriteLine("Read {0} bytes", readBytes);
         Console.WriteLine(Encoding.UTF8.GetString(buffer));
-
     }
 }
